@@ -163,6 +163,24 @@ input#ss-submit:hover {
 
 }
 
+/*
+ * For [1 2 3 4 5] style forms, they are displayed in a table
+ */
+.ss-form-entry table {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.aria-only-help {
+  display:none;
+}
+.ss-scalerow.ss-leftlabel {
+  font-size: 15px;
+}
+.ss-scalerow.ss-rightlabel {
+  font-size: 15px;
+}
 
 /* Base google form  */
 
