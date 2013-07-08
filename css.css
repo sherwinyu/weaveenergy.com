@@ -1,0 +1,232 @@
+@font-face {
+	font-family: "Source Sans bold";
+	src: url('SourceSansPro-Bold.otf');
+}
+
+@font-face {
+	font-family: "Source Sans semibold";
+	src: url('SourceSansPro-Bold.otf');
+}
+
+@font-face {
+	font-family: "Source Sans";
+	src: url('SourceSansPro-Regular.otf');
+}
+
+@font-face {
+	font-family: "Source Sans light";
+	src: url('SourceSansPro-Light.otf');
+}
+
+
+/*
+SourceSansPro-BlackIt.otf
+SourceSansPro-Black.otf
+SourceSansPro-BoldIt.otf
+SourceSansPro-Bold.otf
+SourceSansPro-ExtraLightIt.otf
+SourceSansPro-ExtraLight.otf
+SourceSansPro-It.otf
+SourceSansPro-LightIt.otf
+SourceSansPro-Light.otf
+SourceSansPro-Regular.otf
+SourceSansPro-SemiboldIt.otf
+SourceSansPro-Semibold.otf
+*/
+.header {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 150px;
+  background: rgba(255, 255, 255, 0.65);
+  padding: 25px;
+  font-family: "Source Sans";
+  font-size: 24px;
+  text-align: center;
+  color: #262626;
+  margin-bottom: 1em;
+}
+
+#logo {
+  width: 55%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+p.info1 {
+  font-size: 16px;
+  font-family: "Source sans light";
+}
+p.info {
+  font-size: 24px;
+  font-family: "Source sans";
+}
+div.subnote {
+  font-size: 14px;
+  text-align: right;
+  position: absolute;
+  right: 15px;
+  bottom: 15px;
+  font-family: "Source sans";
+  color: #666666;
+}
+.subnote a {
+  font-family: "Source sans";
+  text-decoration: none;
+  color: #444444;
+}
+.subnote a:hover {
+  text-decoration: none;
+  color: #0054a6;
+}
+.weave-footer a {
+  font-family: "Source sans";
+  text-decoration: none;
+  color: #444444;
+}
+.weave-footer a:hover {
+  text-decoration: none;
+  color: #0054a6;
+}
+
+div.fabric {
+  height: 100%;
+  width: 100%;
+  background: url('fabric10.jpg');
+  filter:alpha(opacity=60);
+  opacity: 0.6;
+  position:fixed;
+  left: 0;
+  top: 0;
+}
+div.wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+body.welcome{
+}
+
+html {
+  background: url('cleanbg.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* Google form customized  */
+
+.weave-footer, .weave-form-wrapper {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 150px;
+  background: rgba(255, 255, 255, 0.65);
+  padding: 25px;
+  font-family: "Source Sans";
+  font-size: 24px;
+  color: #262626;
+  margin-bottom: 1em;
+  text-align: center;
+}
+span.ss-choice-label:hover {
+  color: #3876c9;
+  font-family: "Source sans";
+}
+.ss-choices {
+  // margin-left: 20px !important;
+}
+
+input {
+  border: none;
+  padding: 5px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+select {
+  font-family: "Source Sans";
+  font-size: 20px;
+}
+
+input#ss-submit{
+  font-family: "Source Sans";
+  font-size: 22px;
+  padding: 5px 10px;
+}
+input#ss-submit:hover {
+  background: #3876c9;
+
+}
+
+
+/* Base google form  */
+
+.ss-form-entry {
+margin-bottom:1.5em;
+}
+
+.ss-form-entry input {
+vertical-align:middle;
+margin-left:0;
+margin-top:0;
+}
+
+.ss-q-title {
+display:block;
+font-weight:700;
+}
+
+.ss-q-help {
+display:block;
+margin:.1em 0 .25em;
+}
+
+.ss-textarea {
+max-width:99%;
+}
+
+.ss-q-long {
+resize:vertical;
+width:70%;
+}
+
+.ss-choices {
+list-style:none;
+margin:.5em 0 0;
+padding:0;
+}
+
+.ss-choice-item {
+line-height:1.3em;
+padding-bottom:.5em;
+margin:0;
+}
+
+.ss-section-title {
+background-color:#eee;
+margin:2em -.4em 0;
+padding:.4em;
+}
+
+.ss-section-description {
+margin-top:.5em;
+}
+
+.ss-page-title {
+margin:0;
+padding:0;
+}
+
+.ss-item {
+margin:12px 0;
+}
+
+.ss-required-asterisk {
+  color: #c04848;
+}
+

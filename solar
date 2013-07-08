@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WeaveEnergy</title>
+    <meta content="energy, efficiency" name="keywords" />
+    <link href="css.css" media="all" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+
+
+    <script type="text/javascript">
+      <!-- insert google analytics thing -->
+    </script>
+  </head>
+
+  <body class="welcome">
+    <div class="fabric">
+    </div>
+    <div class="wrapper">
+      <div class="header">
+        <h2>Solar at New Living</h2>
+        <p class="instructions">
+          We'd appreciate it if you answered a few questions about solar panels.
+        </p>
+
+
+
+      </div>
+
+      <div class="weave-form-wrapper">
+        <form action="https://docs.google.com/a/communificiency.com/forms/d/1FMpfXY_WZanIZm9AJeTudyZrc1fEqCbKhbYRc9BEbWU/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+          <ol style="padding-left: 0">
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-item-required ss-radio">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1423532957">
+                    <div class="ss-q-title">
+                      Have you installed solar on your home? <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+                      <span class="ss-required-asterisk">*</span>
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <ul class="ss-choices">
+                    <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.616707329" value="Yes" id="group_616707329_1" class="ss-q-radio" aria-label="Yes"></span>
+                    <span class="ss-choice-label">Yes</span>
+                  </label></li>
+                <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.616707329" value="No&nbsp;" id="group_616707329_2" class="ss-q-radio" aria-label="No&nbsp;"></span>
+                <span class="ss-choice-label">No&nbsp;</span>
+              </label></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="ss-form-question errorbox-good">
+      <div dir="ltr" class="ss-item ss-select">
+        <div class="ss-form-entry">
+          <label class="ss-q-item-label" for="entry_1911647853">
+            <div class="ss-q-title">
+              What issue most interests you about solar?
+            </div>
+            <div class="ss-q-help ss-secondary-text" dir="ltr">
+            </div>
+          </label>
+          <select name="entry.1911647853" id="entry_1911647853">
+            <option value=""></option>
+            <option value="Environmental impact&nbsp;">Environmental impact&nbsp;</option>
+            <option value="Cost savings&nbsp;">Cost savings&nbsp;</option>
+            <option value="Energy independence&nbsp;">Energy independence&nbsp;</option>
+            <option value="Technological innovation&nbsp;">Technological innovation&nbsp;</option>
+          </select>
+        </div>
+      </div>
+    </div>
+    <div class="ss-form-question errorbox-good">
+      <div dir="ltr" class="ss-item ss-text">
+        <div class="ss-form-entry">
+          <label class="ss-q-item-label" for="entry_1638577870">
+            <div class="ss-q-title">
+              Friend #1
+            </div>
+            <div class="ss-q-help ss-secondary-text" dir="ltr">
+            </div>
+          </label>
+          <input type="text" name="entry.1638577870" value="" class="ss-q-short" id="entry_1638577870" dir="auto">
+        </div>
+      </div>
+    </div>
+    <div class="ss-form-question errorbox-good">
+      <div dir="ltr" class="ss-item ss-text">
+        <div class="ss-form-entry">
+          <label class="ss-q-item-label" for="entry_238925055">
+            <div class="ss-q-title">
+              Friend #1 email address
+            </div>
+            <div class="ss-q-help ss-secondary-text" dir="ltr">
+            </div>
+          </label>
+          <input type="text" name="entry.238925055" value="" class="ss-q-short" id="entry_238925055" dir="auto">
+        </div>
+      </div>
+    </div>
+    <input type="hidden" name="draftResponse" value="[] ">
+    <input type="hidden" name="pageHistory" value="0">
+    <div class="ss-item ss-navigate">
+      <div class="ss-form-entry" dir="ltr">
+        <input type="submit" name="submit" value="Submit" id="ss-submit">
+      </div>
+    </div>
+  </ol>
+</form>
+        </div>
+      <div class="weave-footer">
+        <img src="newliving_powered_by_weave 400.png" id="logo"></img>
+        <p class="info1">Weave is spreading values-based shopping in Houston. <a href="http://weaveenergy.com"> Learn more </a></p>
+</div>
+      </body>
+
+    </html>
+
+
+
+  </html>

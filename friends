@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WeaveEnergy</title>
+    <meta content="energy, efficiency" name="keywords" />
+    <link href="css.css" media="all" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+
+
+    <script type="text/javascript">
+      <!-- insert google analytics thing -->
+    </script>
+  </head>
+
+  <body class="welcome">
+    <div class="fabric">
+    </div>
+    <div class="wrapper">
+      <div class="header">
+        <h2>Spread the word about New Living</h2>
+        <p class="instructions">
+          Thanks for shopping at New Living. We'd appreciate it if you tell your friends and family about our mission!
+        </p>
+
+
+
+      </div>
+
+      <div class="weave-form-wrapper">
+        <form action="https://docs.google.com/a/communificiency.com/forms/d/19G0JaoPCZ4Wrn92Q3CVf0kW1qMH1jsX86u-NOJR8_3w/formResponse" method="POST" id="ss-form" target="_self" onsubmit="">
+          <ol style="padding-left: 0">
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-item-required ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_583948086">
+                    <div class="ss-q-title">
+                      Your name <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+                      <span class="ss-required-asterisk">*</span>
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.583948086" value="" class="ss-q-short" id="entry_583948086" dir="auto" aria-required="true">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-item-required ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_312274650">
+                    <div class="ss-q-title">
+                      Your email address <label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
+                      <span class="ss-required-asterisk">*</span>
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.312274650" value="" class="ss-q-short" id="entry_312274650" dir="auto" aria-required="true">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-select">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_712242735">
+                    <div class="ss-q-title">
+                      Which product did you purchase?
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <select name="entry.712242735" id="entry_712242735">
+                    <option value=""></option>
+                    <option value="Organic mattress">Organic mattress</option>
+                    <option value="Air filter">Air filter</option>
+                    <option value="Water Filter&nbsp;">Water Filter&nbsp;</option>
+                    <option value="Custom furniture">Custom furniture</option>
+                    <option value="VOC free paint">VOC free paint</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1513583729">
+                    <div class="ss-q-title">
+                      Friend #1 Name
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.1513583729" value="" class="ss-q-short" id="entry_1513583729" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_999129728">
+                    <div class="ss-q-title">
+                      Friend #1 Email Address
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.999129728" value="" class="ss-q-short" id="entry_999129728" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-select">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_2082739813">
+                    <div class="ss-q-title">
+                      What would excite you friend most about New Living? (1)
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <select name="entry.2082739813" id="entry_2082739813">
+                    <option value=""></option>
+                    <option value="Our environmental impact">Our environmental impact</option>
+                    <option value="Our focus on personal health">Our focus on personal health</option>
+                    <option value="Our commitment to fair labor and social practices">Our commitment to fair labor and social practices</option>
+                    <option value="The home comfort of our products">The home comfort of our products</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1722366093">
+                    <div class="ss-q-title">
+                      Friend #2 Name
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.1722366093" value="" class="ss-q-short" id="entry_1722366093" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_937521276">
+                    <div class="ss-q-title">
+                      Friend #2 Email Address
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.937521276" value="" class="ss-q-short" id="entry_937521276" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-select">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_477770748">
+                    <div class="ss-q-title">
+                      What would excite you friend most about New Living? (2)
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <select name="entry.477770748" id="entry_477770748">
+                    <option value=""></option>
+                    <option value="Our environmental impact">Our environmental impact</option>
+                    <option value="Our focus on personal health">Our focus on personal health</option>
+                    <option value="Our commitment to fair labor and social practices">Our commitment to fair labor and social practices</option>
+                    <option value="The home comfort of our products">The home comfort of our products</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1582763902">
+                    <div class="ss-q-title">
+                      Friend #3 Name
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.1582763902" value="" class="ss-q-short" id="entry_1582763902" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_611435419">
+                    <div class="ss-q-title">
+                      Friend #3 Email Address
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.611435419" value="" class="ss-q-short" id="entry_611435419" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-select">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1537743673">
+                    <div class="ss-q-title">
+                      What would excite you friend most about New Living? (3)
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <select name="entry.1537743673" id="entry_1537743673">
+                    <option value=""></option>
+                    <option value="Our environmental impact">Our environmental impact</option>
+                    <option value="Our focus on personal health">Our focus on personal health</option>
+                    <option value="Our commitment to fair labor and social practices">Our commitment to fair labor and social practices</option>
+                    <option value="The home comfort of our products">The home comfort of our products</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1856610436">
+                    <div class="ss-q-title">
+                      Friend #4 Name
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.1856610436" value="" class="ss-q-short" id="entry_1856610436" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1780054267">
+                    <div class="ss-q-title">
+                      Friend #4 Email Address
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.1780054267" value="" class="ss-q-short" id="entry_1780054267" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-select">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_1249797627">
+                    <div class="ss-q-title">
+                      What would excite you friend most about New Living? (4)
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <select name="entry.1249797627" id="entry_1249797627">
+                    <option value=""></option>
+                    <option value="Our environmental impact">Our environmental impact</option>
+                    <option value="Our focus on personal health">Our focus on personal health</option>
+                    <option value="Our commitment to fair labor and social practices">Our commitment to fair labor and social practices</option>
+                    <option value="The home comfort of our products">The home comfort of our products</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_2010795073">
+                    <div class="ss-q-title">
+                      Friend #5 Name
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.2010795073" value="" class="ss-q-short" id="entry_2010795073" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-text">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_973943755">
+                    <div class="ss-q-title">
+                      Friend #5 Email Address
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <input type="text" name="entry.973943755" value="" class="ss-q-short" id="entry_973943755" dir="auto">
+                </div>
+              </div>
+            </div>
+            <div class="ss-form-question errorbox-good">
+              <div dir="ltr" class="ss-item ss-select">
+                <div class="ss-form-entry">
+                  <label class="ss-q-item-label" for="entry_197814850">
+                    <div class="ss-q-title">
+                      What would excite you friend most about New Living? (5)
+                    </div>
+                    <div class="ss-q-help ss-secondary-text" dir="ltr">
+                    </div>
+                  </label>
+                  <select name="entry.197814850" id="entry_197814850">
+                    <option value=""></option>
+                    <option value="Our environmental impact">Our environmental impact</option>
+                    <option value="Our focus on personal health">Our focus on personal health</option>
+                    <option value="Our commitment to fair labor and social practices">Our commitment to fair labor and social practices</option>
+                    <option value="The home comfort of our products">The home comfort of our products</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <input type="hidden" name="draftResponse" value="[] ">
+            <input type="hidden" name="pageHistory" value="0">
+            <div class="ss-item ss-navigate">
+              <div class="ss-form-entry" dir="ltr">
+                <input type="submit" name="submit" value="Submit" id="ss-submit">
+              </div>
+            </div>
+          </ol>
+        </form>
+      </div>
+      <div class="weave-footer">
+        <img src="newliving_powered_by_weave 400.png" id="logo"></img>
+        <p class="info1">Weave is spreading values-based shopping in Houston. <a href="http://weaveenergy.com"> Learn more </a></p>
+      </div>
+    </body>
+
+  </html>
