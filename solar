@@ -122,6 +122,9 @@
                   <div aria-hidden="true" class="aria-todo">
                     Not interested
                   </div>
+                  <div class="aria-only-help">
+                    Select a value from a range of 1,Not interested , to 5,Very interested ,.
+                  </div>
                 </td>
                 <td class="ss-scalerow">
                   <div class="ss-scalerow-fieldcell">
