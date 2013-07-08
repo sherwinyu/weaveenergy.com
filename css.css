@@ -60,7 +60,7 @@ p.info1 {
   font-family: "Source sans light";
 }
 p.info {
-  font-size: 24px;
+  font-size: 20px;
   font-family: "Source sans";
 }
 div.subnote {
@@ -132,6 +132,10 @@ html {
   color: #262626;
   margin-bottom: 1em;
   text-align: center;
+}
+
+.weave-form-wrapper.landing {
+  font-size: 16px;
 }
 span.ss-choice-label:hover {
   color: #3876c9;
