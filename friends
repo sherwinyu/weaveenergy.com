@@ -76,7 +76,7 @@
                     <option value=""></option>
                     <option value="Organic mattress">Organic mattress</option>
                     <option value="Air filter">Air filter</option>
-                    <option value="Water Filter&nbsp;">Water Filter&nbsp;</option>
+                    <option value="Water Filter">Water Filter</option>
                     <option value="Custom furniture">Custom furniture</option>
                     <option value="VOC free paint">VOC free paint</option>
                   </select>
